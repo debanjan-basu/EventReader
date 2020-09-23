@@ -1,0 +1,251 @@
+1482858835 STARTED Main processes started
+1482858849 WARN CPU is reaching 50% load
+1482858907 WARN Number of packets coming in is higher than usual
+1482870889 STARTED email processing job started
+1482892975 INFO ACPI: AC Adapter [ACAD] (on-line)
+1482940700 INFO New node brought online
+1482945963 TRACE Leaving init space
+1482994103 ENDED Quick system sweep
+1483032003 INFO System is healthy
+1482878825 ALARM Node 1 in the system unreachable
+1483061732 TRACE Leaving init space
+1483066312 WARN Slot 229 already registered by another hotplug driver
+1483104815 INFO Loading more system pages
+1483120559 INFO Interruption signal was received
+1483169686 STARTED priviliged client connection
+1483182099 STARTED email processing job started
+1483220754 INFO TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+1483240806 TRACE Switching to clocksource hpet
+1483275320 WARN First threshold is reached
+1483295642 FAILURE Total node count is incorrect
+1483318721 ALARM Node 3 in the system unreachable
+1483349696 STARTED io scheduler cfq
+1483358930 ENDED Diagnostics process ended successfuly
+1483364050 INFO Client connected to system node 7
+1483411881 INFO Echoworx rocks
+1483429623 STARTED email processing job started
+1483465459 WARN Slot 86 already registered by another hotplug driver
+1483476956 INFO New node brought online
+1483488515 WARN email headers non-compliant
+1483503373 INFO type=2000 audit(1475620743.734:1): initialized
+1483539408 WARN CPU is reaching 50% load
+1483564118 STARTED email processing job started
+1483582252 INFO Booting Node   0, Processors Ok
+1483624310 INFO type=2000 audit(1475620743.734:1): initialized
+1483664748 TRACE ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+1483705379 ALARM Storage capacity is near limit
+1483718650 TRACE Leaving init space
+1483747401 INFO Client connected to system node 9
+1483790591 ENDED Diagnostics process ended successfuly
+1483834665 INFO Echoworx rocks
+1483855874 STARTED email processing job started
+1483885679 STARTED priviliged client connection
+1483913040 ENDED Quick system sweep
+1483924602 ALARM Node 31 in the system unreachable
+1483936236 FAILURE Total node count is incorrect
+1483986022 ENDED Diagnostics process ended successfuly
+1484004310 WARN CPUID marked event: 'branch misses' unavailable
+1484044597 ALARM hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+1484087836 WARN First threshold is reached
+1484105147 TRACE NET: Registered protocol family 16
+1484129716 WARN CPU is reaching 50% load
+1484159351 ENDED Clean up process ended
+1484178497 STARTED email processing job started
+1484216284 ENDED Quick system sweep
+1484246158 WARN CPU is reaching 50% load
+1484262211 INFO Client connected to system node 65
+1484268292 ENDED Auditing system count ended
+1484299979 ALARM Node 1 in the system unreachable
+1484307646 WARN CPUID marked event: 'branch misses' unavailable
+1484321316 INFO Initializing pool allocator
+1484358291 INFO Echoworx rocks
+1484405191 ALARM Storage capacity is near limit
+1484455021 STARTED TSC: cpu family 6 model 45, tsc initial value = 4d62ff8a5
+1484482574 TRACE Switching to clocksource hpet
+1484482895 INFO System is healthy
+1484486848 TRACE Leaving init space
+1484526574 INFO Booting Node   0, Processors Ok
+1484566694 STARTED email processing job started
+1484608589 ALARM Unusual activity around node 9
+1484624869 TRACE connection count is 0
+1484642582 INFO Client connected to system node 5
+1484678239 WARN First threshold is reached
+1484716747 INFO Loading more system pages
+1484765027 ALARM Node 6 in the system unreachable
+1484783479 TRACE NET: Registered protocol family 16
+1484826694 INFO Interruption signal was received
+1484866442 STARTED io scheduler cfq
+1484911175 INFO New node brought online
+1484919368 ENDED Diagnostics process ended successfuly
+1484921053 INFO New node brought online
+1484929135 STARTED email processing job started
+1484945722 FAILURE Total node count is incorrect
+1484987041 TRACE Leaving init space
+1484992966 INFO Initializing pool allocator
+1485020857 INFO TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+1485054659 FAILURE System AB crashed
+1485101330 STARTED priviliged client connection
+1485118593 INFO Client connected to system node 3
+1485131547 TRACE Switching to clocksource hpet
+1485140678 ALARM Node 17 in the system unreachable
+1485143148 INFO Echoworx rocks
+1485177985 INFO Booting Node   0, Processors Ok
+1485180170 TRACE Switching to clocksource hpet
+1485200691 INFO Interruption signal was received
+1485238895 STARTED TSC: cpu family 6 model 45, tsc initial value = 4d62ff8a5
+1485241890 INFO New node brought online
+1485286635 ENDED Clean up process ended
+1485317478 ALARM Unusual activity around node 43
+1485366477 ENDED Diagnostics process ended successfuly
+1485396617 ALARM Storage capacity is near limit
+1485445567 WARN CPU is reaching 50% load
+1485450101 ENDED Detailed system sweep
+1485483386 WARN First threshold is reached
+1485505017 INFO System is healthy
+1485511714 ALARM EFI Variables Facility
+1485554785 INFO Loading more system pages
+1485595709 INFO Initializing pool allocator
+1485645238 INFO Client connected to system node 12
+1485664713 WARN CPUID marked event: 'branch misses' unavailable
+1485712310 STARTED io scheduler cfq
+1485747974 ENDED Auditing system count ended
+1485760394 ALARM Node 2 in the system unreachable
+1485774461 WARN Slot 3443 already registered by another hotplug driver
+1485818906 STARTED TSC: cpu family 6 model 45, tsc initial value = 4d62ff8a5
+1485833642 ENDED Diagnostics process ended successfuly
+1485869830 INFO ACPI: AC Adapter [ACAD] (on-line)
+1485886075 ALARM Unusual activity around node 3
+1485931226 FAILURE Total node count is incorrect
+1485937575 INFO Maximum display memory size is 4096 kiB
+1485979337 TRACE Leaving init space
+1486012689 WARN First threshold is reached
+1486023471 ENDED Clean up process ended
+1486054056 INFO type=2000 audit(1475620743.734:1): initialized
+1486075026 INFO Echoworx rocks
+1486115403 INFO Initializing pool allocator
+1486161288 TRACE pci 0000:00:18.1: PME# supported from D0 D3hot D3cold
+1486162079 INFO Console: switching to colour frame buffer device 100x37
+1486166494 ALARM EFI Variables Facility
+1486175167 INFO System is healthy
+1486195852 WARN email headers non-compliant
+1486198097 TRACE Movable zone start PFN for each node
+1486223080 FAILURE Total node count is incorrect
+1486239600 WARN CPU is reaching 50% load
+1486263227 WARN alternatives: switching to unfair spinlock
+1486294350 INFO Booting Node   0, Processors Ok
+1486337023 TRACE Leaving init space
+1486377827 STARTED agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0x0
+1486401929 INFO Interruption signal was received
+1486440728 TRACE Entering processing scope
+1486449506 INFO futex hash table entries: 512 (order: 3, 32768 bytes)
+1486490692 WARN First threshold is reached
+1486539922 INFO Client connected to system node 12
+1486541360 ENDED Quick system sweep
+1486582830 ALARM input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+1486615294 INFO Initializing pool allocator
+1486627030 WARN CPUID marked event: 'branch misses' unavailable
+1486630606 INFO system 00:0d: [mem 0xf0000000-0xf7ffffff] has been reserved
+1486663642 TRACE ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+1486693118 ENDED Auditing system count ended
+1486729868 INFO Console: switching to colour frame buffer device 100x37
+1486770173 INFO Maximum display memory size is 4096 kiB
+1486783168 ENDED Clean up process ended
+1486831757 STARTED TSC: cpu family 6 model 45, tsc initial value = 4d62ff8a5
+1486840896 TRACE Entering processing scope
+1486870640 INFO System is healthy
+1486880728 ALARM hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+1486884556 INFO Echoworx rocks
+1486970262 WARN  VFS: Disk quotas dquot_6.5.2
+1487024284 ENDED Quick system sweep
+1487053640 ALARM Storage capacity is near limit
+1487083705 INFO Maximum display memory size is 4096 kiB
+1487142342 TRACE connection count is 73
+1487205303 TRACE Entering processing scope
+1487242761 INFO Registered vmci device
+1487256696 TRACE ACPI: PM-Timer IO Port: 0x1008
+1487269199 ENDED Auditing system count ended
+1487304884 TRACE Switching to clocksource hpet
+1487317625 STARTED priviliged client connection
+1487361778 ALARM Unusual activity around node 12
+1487374604 INFO Booting Node   0, Processors Ok
+1487404029 FAILURE System BNN crashed
+1487409624 WARN network card temperature increase
+1487418412 ALARM msgmni has been set to 15737
+1487435287 INFO Interruption signal was received
+1487479401 INFO Initializing pool allocator
+1487524950 TRACE NET: Registered protocol family 16
+1487527189 INFO Echoworx rocks
+1487538372 TRACE Entering processing scope
+1487554601 INFO type=2000 audit(1475620743.734:1): initialized
+1487601174 WARN First threshold is reached
+1487635848 INFO Maximum display memory size is 4096 kiB
+1487680874 INFO ACPI: AC Adapter [ACAD] (on-line)
+1487693936 ALARM EFI Variables Facility
+1487721267 INFO system 00:0d: [mem 0xf0000000-0xf7ffffff] has been reserved
+1487745130 TRACE pci 0000:00:18.1: PME# supported from D0 D3hot D3cold
+1487788394 WARN network card temperature increase
+1487839936 INFO allocated 33554432 bytes of main_group
+1487912704 STARTED agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0x0
+1487914117 TRACE NET: Registered protocol family 17
+1487956861 ENDED Clean up process ended
+1488003486 INFO futex hash table entries: 512 (order: 3, 32768 bytes)
+1488036465 STARTED TSC: cpu family 6 model 45, tsc initial value = 4d62ff8a5
+1488055268 TRACE NetLabel:  unlabeled traffic allowed by default
+1488098640 INFO Console: colour VGA+ 80x25
+1488102329 TRACE ACPI: PM-Timer IO Port: 0x1008
+1488132193 INFO Interruption signal was received
+1488164049 TRACE Entering processing scope
+1488172278 INFO Maximum display memory size is 4096 kiB
+1488206784 INFO Registered vmci device
+1488242554 TRACE NET: Registered protocol family 1
+1488283362 WARN  VFS: Disk quotas dquot_6.5.2
+1488378169 WARN CPUID marked event: 'branch misses' unavailable
+1488392156 WARN Process (2091) killed by TERM signal
+1488426003 TRACE Movable zone start PFN for each node
+1488429486 INFO system 00:0d: [mem 0xf0000000-0xf7ffffff] has been reserved
+1488466400 WARN email headers non-compliant
+1488515494 STARTED ACPI: FACP 00000000bfefee73 000F4 (v04 INTEL  440BX    06040000 PTL  000F4240)
+1488543454 ALARM Unusual activity around node 32
+1488547315 TRACE ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+1488639108 WARN RSDP 00000000000f6b80 00024 (v02 PTLTD )
+1488647191 TRACE pci 0000:00:18.1: PME# supported from D0 D3hot D3cold
+1488681874 INFO Booting Node   8, Processors Ok
+1488711906 FAILURE System GTX crashed
+1488779751 WARN Process (81) killed by TERM signal
+1488825700 TRACE Entering processing scope
+1488857676 WARN network card temperature increase
+1488873819 ALARM EFI Variables Facility
+1488896543 ALARM hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+1488918591 TRACE connection count is 9
+1488972181 INFO Maximum display memory size is 4096 kiB
+1489024862 WARN RSDP 00000000000f6b80 00024 (v02 PTLTD )
+1489037318 TRACE NetLabel:  unlabeled traffic allowed by default
+1489042965 INFO allocated 33554432 bytes of main_group
+1489081609 INFO futex hash table entries: 512 (order: 3, 32768 bytes)
+1488749680 TRACE NET: Registered protocol family 4
+1489549543 INFO type=2000 audit(1475620743.734:1): initialized
+1489103589 WARN Process (29) killed by TERM signal
+1489149060 ENDED connection pooling resize process
+1489198956 INFO allocated 3755349 bytes of main_group
+1489250508 ENDED dynamic resizing of IP connection pool
+1489278506 INFO system 00:0d: [mem 0xf0000000-0xf7ffffff] has been reserved
+1489335438 INFO type=2000 audit(1475620743.734:1): initialized
+1489385358 WARN RSDP 00000000000f6b80 00024 (v02 PTLTD )
+1489407036 ALARM msgmni has been set to 15737
+1489454501 FAILURE i/o operation not completed
+1489463616 TRACE ACPI: PM-Timer IO Port: 0x1008
+1489471052 WARN email headers non-compliant
+1489500603 INFO allocated 33554432 bytes of main_group
+1489577842 ALARM input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+1489679721 TRACE NetLabel: connection flag is false
+1489870350 FAILURE i/o operation not completed
+1489354063 TRACE Entering processing scope
+1489728087 INFO Console: colour VGA+ 80x25
+1489744205 WARN network card temperature increase
+1489788275 INFO Booting Node   3, Processors Ok
+1489801940 TRACE connection count is 45
+1489829702 ALARM EFI Variables Facility
+1489856106 STARTED agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0x0
+1489904652 INFO type=2000 audit(1475620743.734:1): initialized
+1489924940 FAILURE CPU load is too high 90%
+1489907994 WARN alternatives: switching to unfair spinlock
